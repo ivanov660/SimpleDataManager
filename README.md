@@ -1,0 +1,2 @@
+# SimpleDataManager
+Простой менеджер данных
